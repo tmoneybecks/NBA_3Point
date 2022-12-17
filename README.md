@@ -1,4 +1,4 @@
-Predicting the Modern Adjusted Three Point Percentages of Past NBA Players
+# Predicting the Modern Adjusted Three Point Percentages of Past NBA Players
 
 This project aims to predict the 3-Point shooting percentages of historic NBA players when adjusted for the modern era of the NBA. This project uses data from every player in every season since 1959, which is well before the inclusion of the 3-point line in 1979. By analyzing the recent 15 years of the NBA, we can create an AI regression model where a players season 3P% can be predicted. The model chosen for this Random Forest Regression and features are selected through a process of exploratory data analysis.
 
@@ -10,3 +10,5 @@ This dataset includes the statistics of every player in each of their seasons fr
 Random Forest Regression Model is used primarily in this project. We look at metrics such as the Mean Absolute Error and Mean Squared Error. We get a good MAE of around .02. We also look at this dataset with KNN with K values from 1-20. We also use other EDA to help shape this data.
 
 We found that the Random Forest Regression Model was able to attain a MAE of about 0.02. This means that the average error was only 2% from the real 3P%. We also determined the predicted 3P% of several past NBA players such as Kareem Abdul-Jabbar and Michael Jordan.
+![image](https://user-images.githubusercontent.com/102937958/208213342-bfcd81a0-4223-48ae-b98f-08ce0053193c.png)
+
