@@ -12,5 +12,6 @@ Random Forest Regression Model is used primarily in this project. We look at met
 We found that the Random Forest Regression Model was able to attain a MAE of about 0.02. This means that the average error was only 2% from the real 3P%. We also determined the predicted 3P% of several past NBA players such as Kareem Abdul-Jabbar and Michael Jordan.
 
 
+Below we see the predicted vs the actual results. Please refer to the IPython Notebook for further analysis.
 
 <img width="536" alt="Screen Shot 2022-12-16 at 7 37 33 PM" src="https://user-images.githubusercontent.com/102937958/208213476-6bb1b120-9a7c-415e-a875-c8f63d806261.png">
