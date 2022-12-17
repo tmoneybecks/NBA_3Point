@@ -10,5 +10,7 @@ This dataset includes the statistics of every player in each of their seasons fr
 Random Forest Regression Model is used primarily in this project. We look at metrics such as the Mean Absolute Error and Mean Squared Error. We get a good MAE of around .02. We also look at this dataset with KNN with K values from 1-20. We also use other EDA to help shape this data.
 
 We found that the Random Forest Regression Model was able to attain a MAE of about 0.02. This means that the average error was only 2% from the real 3P%. We also determined the predicted 3P% of several past NBA players such as Kareem Abdul-Jabbar and Michael Jordan.
-![image](https://user-images.githubusercontent.com/102937958/208213342-bfcd81a0-4223-48ae-b98f-08ce0053193c.png)
 
+
+
+<img width="536" alt="Screen Shot 2022-12-16 at 7 37 33 PM" src="https://user-images.githubusercontent.com/102937958/208213476-6bb1b120-9a7c-415e-a875-c8f63d806261.png">
